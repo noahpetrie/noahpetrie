@@ -11,7 +11,7 @@
 <h3>Find me 🌎</h3>
 
 - 📚 I'm trying to write more - [Blog](https://noahpetrie.ca/blog/)
-- 💻 Some of my projects can be found on my [Website](https://noahpetrie.ca/work/) or on [Github]()
+- 💻 Some of my projects can be found on my [Website](https://noahpetrie.ca/work/) or on [Github](https://github.com/noahpetrie)
 - 🐦 You can reach me on [Twitter](https://twitter.com/noahmpetrie)
 - 💼 Here's my [LinkedIn](https://www.linkedin.com/in/noahpetrie/)
 - 📫 Or my [email](mailto:noah.petrie@outlook.com)
