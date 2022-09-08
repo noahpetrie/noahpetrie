@@ -3,7 +3,7 @@
 - 🇨🇦 I'm from Canada
 - 💼 I'm a Senior Consultant at IBM
 - 👀 I’m interested in HR technology, people analytics and the future of work.
-- 🌱 I’m currently learning more about development.
+- 🌱 I’m currently learning more about front end development, data science, and UI/UX.
 - 😄 Pronouns: He/Him
 
 
